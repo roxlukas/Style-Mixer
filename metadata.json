@@ -1,0 +1,5 @@
+{
+  "name": "Style Mixer",
+  "description": "An application to generate images using the Gemini API based on the style of uploaded reference graphics. The app analyzes reference images to create a unified style prompt, then combines it with a user's text prompt to generate new assets.",
+  "requestFramePermissions": []
+}
